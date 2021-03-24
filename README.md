@@ -2,4 +2,4 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on Indie Games
-- 📫 Reach me on e-mail brunogattai1996@gmail.com
+- 📫 Reach me on e-mail brunogattai1996@gmail.com or LinkedIn https://www.linkedin.com/in/bruno-gattai/
