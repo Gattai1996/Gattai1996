@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Bruno Gattai
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on Indie Games
+- 💞️ I'm looking to enter the gaming market
 - 📫 Reach me on e-mail brunogattai1996@gmail.com or LinkedIn https://www.linkedin.com/in/bruno-gattai/
+- 🎨 Find my projects in my portfolio https://bit.ly/bruno-gattai-portfolio
