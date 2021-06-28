@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I'm looking to enter the gaming market
 - 📫 Reach me on e-mail brunogattai1996@gmail.com or LinkedIn https://www.linkedin.com/in/bruno-gattai/
-- 🎨 Find my projects in my portfolio https://bit.ly/bruno-gattai-portfolio
+- 🎨 Find my projects on my portfolio https://bit.ly/bruno-gattai-portfolio
