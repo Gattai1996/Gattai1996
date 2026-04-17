@@ -14,7 +14,7 @@
 ##
   
 <div style="display: inline-block"><br>
-  <p>Tecnologias que mais utilizo:</p>
+  <p>Technologies that I use the most:</p>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -24,9 +24,6 @@
 ##
 
 <div style="display: inline-block"><br>
-  <p>Redes sociais, links e contatos:</p>
+  <p>Contact:</p>
   <a href="https://www.linkedin.com/in/bruno-gattai/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:brunogattai1996@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://gattai1996.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCNNm-Ro-WG7MlXF7DIh9LaQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
