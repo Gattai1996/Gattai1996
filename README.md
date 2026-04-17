@@ -1,7 +1,7 @@
-## 👋 Olá! Eu sou o Bruno Gattai.
-- 👀 Sou um desenvolvedor de games em Unity e C#
-- 📫 Contate-me no e-mail brunogattai1996@gmail.com ou LinkedIn https://www.linkedin.com/in/bruno-gattai/
-- 🎨 Veja meus projetos em meu portfólio https://bit.ly/bruno-gattai-portfolio
+## 👋 Hi! I'm Bruno Gattai.
+- 👀 A Game Developer specialized in Unity and C#
+- 📫 Contact me on LinkedIn https://www.linkedin.com/in/bruno-gattai/
+- 🎨 See my projects on https://gattai1996.github.io/
 
 ##
 
